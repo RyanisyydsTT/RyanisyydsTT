@@ -2,7 +2,7 @@
 
 * * *  
 
-![Maoyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=MagicTeaMC&show_icons=true&theme=radical)
+![Maoyue's GitHub stats](https://github-readme-stats.vercel.app/api?username=RyanisyydsTT&show_icons=true&theme=radical)
 [![Discord Presence](https://lanyard.cnrad.dev/api/1170720196688871444)](https://discord.com/users/1170720196688871444)  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=magicteamc&column=7&margin-w=15&margin-h=10&theme=discord&no-frame=true" alt="magicteamc" /></a> </p>

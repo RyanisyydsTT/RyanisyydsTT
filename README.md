@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryanisyyds&column=7&margin-w=15&margin-h=10&theme=discord&no-frame=true" alt="magicteamc" /></a> </p>
 
-![Visitors](https://count.getloli.com/get/@MagicTeaMC)
+![Visitors](https://count.getloli.com/get/@Ryanisyyds)
 
 - 🎢 I'm the owner of [milkteamc](https://github.com/milkteamc). It's a cool Minecraft server.
 

@@ -1,6 +1,6 @@
 # 👋 Hi, I’m RyanisyydsTT!
 
-- 🎓 **Student**
+- 🎓 **Student from Anping Elemantary School**
 - 🐍 **Python Enthusiast**
 - 🌐 [My Website](https://ryanisyyds.xyz)
 

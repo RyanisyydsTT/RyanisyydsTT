@@ -1,6 +1,6 @@
 # 👋 Hi, I’m RyanisyydsTT!
 
-- 🎓 **Student from Anping Elemantary School**
+- 🎓 **Student from Tainan, Taiwan**
 - 🐍 **Python Enthusiast**
 - 🌐 [My Website](https://ryanisyyds.xyz)
 

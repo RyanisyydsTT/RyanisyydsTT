@@ -2,7 +2,7 @@
 
 - 🎓 **Student from Tainan, Taiwan**
 - 🐍 **Python Enthusiast**
-- 🌐 [My Website](https://ryanisyyds.xyz)
+- 🌐 [My Website](https:/ryantse.ng)
 
 ---
 
